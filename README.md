@@ -1,5 +1,5 @@
-# react-lazy-loading-demo
+### react-lazy-loading-demo
 Created with CodeSandbox
 
-this repo comes from [youtube video](https://www.youtube.com/watch?v=MM6oRKX0Pds).
+this repo comes from Chris Peele's [youtube video](https://www.youtube.com/watch?v=MM6oRKX0Pds).
 
